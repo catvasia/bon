@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println();
         System.out.println("-1_000");
-        System.out.println(service.calculate(git-1_000));
+        System.out.println(service.calculate(-1_000));
 
     }
 }
